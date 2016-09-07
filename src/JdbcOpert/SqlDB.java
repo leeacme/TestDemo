@@ -5,11 +5,15 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class SqlDB {
+import org.apache.log4j.Logger;
 
+public class SqlDB {
+	protected static Logger logger = Logger.getLogger(SqlDB.class);
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		  //second
+		logger.info("jsbc测试开始");
 		   System.out.println("-------程序开始-------");
 		   Connection ct = null;
 		   Statement sm = null;

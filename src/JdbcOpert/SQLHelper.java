@@ -6,7 +6,7 @@ import java.util.logging.*;
 /** 
  *  SQL 基本操作 
  * 通过它,可以很轻松的使用 JDBC 来操纵数据库 
- * @author 郗晓勇 
+ * @author 
  */  
 public class SQLHelper  
 {  
