@@ -1,3 +1,6 @@
 2016-09-06 10:34:02,083 [INFO]main-JdbcOpert.SqlDB-jsbc测试开始
 2016-09-06 10:50:48,114 [INFO]main-JdbcOpert.SqlDB-jsbc测试开始
 2016-09-06 11:05:16,162 [INFO]main-JdbcOpert.SqlDB-jsbc测试开始
+2016-09-09 08:43:19,989 [INFO]main-Acme.DBHelper.Logs-这是测试类
+2016-09-09 09:42:18,235 [INFO]main-Acme.DBHelper.Logs-这是测试类
+2016-09-13 10:09:47,461 [ERROR]main-Acme.DBHelper.Logs-违反了 PRIMARY KEY 约束“PK_T_UserInfo”。不能在对象“dbo.T_UserInfo”中插入重复键。重复键值为 (12)。

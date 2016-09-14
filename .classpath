@@ -15,5 +15,7 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/Beyond/Desktop/javaee/0905/sqljdbc4-4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Beyond/Desktop/javaee/0905/JavaMD5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Beyond/Desktop/javaee/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Beyond/Desktop/javaee/0905/LeeAcmeToos.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

@@ -17,8 +17,7 @@ public class RedProperties {
 	         e.printStackTrace();
 	     }
 	}
-	 
-     
+	      
 	public static void main(String[] args) {	
 		RedProperties red=new RedProperties();
 		red.Lode();
